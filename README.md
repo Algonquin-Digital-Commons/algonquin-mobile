@@ -1,4 +1,4 @@
-# PSDC Mobile Client
+# Algonquin Mobile Client
 
 This Expo/React Native companion is derived from Happy, as selected by ADR-0019.
 Source has not been imported.
